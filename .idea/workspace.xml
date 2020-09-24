@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:jimmy" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e8f0683-28c0-4405-bb15-dcab28442a8e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="0sniq536" />
+  </component>
+  <component name="ProjectId" id="1hJCS5fQ6m4uHwzAR2eCMI2dO7r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/legotime/CLionProjects/substrate-node-template/pallets/template/src/expand.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/legotime/CLionProjects/substrate-node-template/runtime/src/expand.rs" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e8f0683-28c0-4405-bb15-dcab28442a8e" name="Default Changelist" comment="" />
+      <created>1599719804753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599719804753</updated>
+      <workItem from="1599719805858" duration="2629000" />
+      <workItem from="1599723965510" duration="5006000" />
+      <workItem from="1599791765413" duration="387000" />
+      <workItem from="1599793524860" duration="10107000" />
+      <workItem from="1600007265372" duration="1083000" />
+      <workItem from="1600013613168" duration="482000" />
+      <workItem from="1600052787734" duration="516000" />
+      <workItem from="1600053410254" duration="122000" />
+      <workItem from="1600053534152" duration="2031000" />
+      <workItem from="1600073168345" duration="441000" />
+      <workItem from="1600076101568" duration="1097000" />
+      <workItem from="1600077208070" duration="1422000" />
+      <workItem from="1600104741294" duration="478000" />
+      <workItem from="1600110149160" duration="72000" />
+      <workItem from="1600155898714" duration="693000" />
+      <workItem from="1600330211222" duration="857000" />
+      <workItem from="1600411630575" duration="402000" />
+      <workItem from="1600605069024" duration="88000" />
+      <workItem from="1600833256481" duration="2266000" />
+      <workItem from="1600913768820" duration="3694000" />
+      <workItem from="1600919241877" duration="1609000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="117" key="#Deployment" timestamp="1600076281252">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="117" key="#Deployment/0.23.1440.877@0.23.1440.877" timestamp="1600076281252" />
+    <state x="304" y="104" key="#SSH_Configurations" timestamp="1600076240292">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="304" y="104" key="#SSH_Configurations/0.23.1440.877@0.23.1440.877" timestamp="1600076240292" />
+    <state x="427" y="206" width="586" height="490" key="find.popup" timestamp="1600919266728">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="427" y="206" width="586" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1600919266728" />
+  </component>
+</project>
